@@ -1,0 +1,6 @@
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: var(--bs-body-bg) !important;
+  border-color: #ffffff !important;
+  color: var(--bs-success);
+}
+
